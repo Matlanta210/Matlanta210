@@ -5,7 +5,7 @@
 
 <h2>📃 Certifications</h2>
 
-- Qualys Vulnerability Management Detection & Response
+- [Qualys Vulnerability Management Detection & Response](https://imgur.com/a/DcuTno0)
 
 
 <h2>📺 Popular YouTube Videos</h2>
