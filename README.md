@@ -3,6 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
+<h2>📃 Certifications</h2>
+
+- Qualys Vulnerability Management Detection & Response
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
