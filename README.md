@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
   - [Vulnerability Scan On Network Assets Using Quayls](https://github.com/Matlanta210/Quayls-VMDR-SCAN-LAB.1.MD/blob/main/README.md)
+  - [Qualys - VMDR - Deployment of Patch Job](https://github.com/Matlanta210/Qualys-VM-Deploy-Patch/blob/main/README.md)
 
 
 <h2>📃 Certifications</h2>
