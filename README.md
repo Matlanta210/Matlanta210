@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
   - [Vulnerability Scan On Network Assets Using Quayls](https://github.com/Matlanta210/Quayls-VMDR-SCAN-LAB.1.MD/blob/main/README.md)
+  - [Vulnerability Scan On Windows 10 Virtual Machine, Using Nessus](https://github.com/Matlanta210/Basic-Nessus-Vulnerability-Scan-on-Windows-10-Virtual-Machine-Host/blob/main/README.md)
   - [Qualys - VMDR - Deployment of Patch Job](https://github.com/Matlanta210/Qualys-VM-Deploy-Patch/blob/main/README.md)
   - [Capstone Group Proposal](https://github.com/Matlanta210/Capstone-Group-Proposal/blob/main/README.md)
 
