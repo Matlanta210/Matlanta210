@@ -15,6 +15,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to Conduct a Vulnerability Scan Using Qualys](https://www.youtube.com/watch?v=VvNdzDEUpfU)
+- [Basic Vulnerability Scan On Windows 10 Machine, Using Nessus](https://www.youtube.com/watch?v=YzUqbjk6TCo)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
